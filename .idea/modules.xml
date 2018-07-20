@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shiro-demo/shiro-demo.iml" filepath="$PROJECT_DIR$/shiro-demo/shiro-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-web/shiro-web.iml" filepath="$PROJECT_DIR$/shiro-web/shiro-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiromaster.iml" filepath="$PROJECT_DIR$/shiromaster.iml" />
+    </modules>
+  </component>
+</project>
